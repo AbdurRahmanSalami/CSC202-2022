@@ -1,8 +1,8 @@
-var a= 4;
-var b= a;
-console.log(b>>a);
-console.log(!b);
+var a; //Declare variable named a. 
+a = 10; //Assign the integer value of 10 to variable a. 
+b = 11; //Create variable b and assign a value to it. No previous declaration statement. 
+var c = 12 //Declare variable c and assign it the value of 12 in one statement.
 
-for (let i = 0; i < 11; i++) {
-    console.log(i);
-};
+console.log(a);
+console.log(b)
+console.log(c)
