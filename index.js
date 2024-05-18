@@ -30,4 +30,9 @@ console.log(a**2); //a value raised to power 2; displays 100 in console.
 a++; //Increment a value. 
 console.log(a); //Displays 11 in console. 
 b--; //Increment b value. 
-console.log(b); //Displays 19 in console. 
+console.log(b); //Displays 19 in console.
+
+firstName = "Abdur-Rahman"; 
+lastName = "Salami"; 
+fullName = firstName + " " + lastName; //Concatenate firstName, whitespace and lastName 
+console.log(fullName); //This should output the full name Pius Onobhayedo.
