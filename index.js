@@ -60,3 +60,10 @@ console.log(!(a < 3) || !(b > 3)); //Prints true as one of the conditions (NOT b
 var age = 17; 
 var adult = (age > 20)? "Yes" : "No"; 
 console.log(adult); //This should display the string "No" 
+
+5 << 1; //Equivalent of 5 * 2 
+5 <<2; //Equivalent of 5 * 4 
+5 <<3; //Equivalent of 5 * 8 
+40 >> 1; //Equivalent of 40 / 2 
+40 >>2; //Equivalent of 40 / 4 
+40 >>3; //Equivalent of 40 / 8 
