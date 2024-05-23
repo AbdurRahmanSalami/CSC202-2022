@@ -67,3 +67,8 @@ console.log(adult); //This should display the string "No"
 40 >> 1; //Equivalent of 40 / 2 
 40 >>2; //Equivalent of 40 / 4 
 40 >>3; //Equivalent of 40 / 8 
+
+typeof  "Abdur-Rahman Salami";  //Returns the value "string" 
+typeof false;  //Returns the value "boolean" 
+typeof (10 + 10);  //Returns the value "number" 
+typeof 33;  //Returns the value "number" 
